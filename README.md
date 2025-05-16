@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on websites <br>👯 I’m looking to collaborate on creating an os<br>🤝 I’m looking for help with pygame<br>🌱 I’m currently learning typescript<br>💬 Ask me about django<br>⚡ Fun fact the QWERTY keyboard was designed to slow down typing speed
+🔭 I’m currently working on websites <br>👯 I’m looking to collaborate on creating an os<br>🤝 I’m looking for help with pygame<br>🌱 I’m currently learning typescript<br>💬 Ask me about django<br>⚡ Fun fact the<br> QWERTY keyboard was designed to slow down typing speed
 
 
 ## 🌐 Socials:
